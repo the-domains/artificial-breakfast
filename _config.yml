@@ -1,0 +1,14 @@
+layout_spectrum: 0.08448113757185638
+typography_spectrum: 0.11368687846697867
+color:
+  brandStrength: 0.6371935897041112
+  lightness: 0.5989249646663666
+  saturation: 0.7521125494968146
+  rhythmicContrast: 0.6307802540250123
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+name: artificial breakfast
